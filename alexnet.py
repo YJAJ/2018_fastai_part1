@@ -1,4 +1,5 @@
-#pytorch vision version of AlexNet https://github.com/pytorch/vision/blob/master/torchvision/models/alexnet.py
+#pytorch vision version of AlexNet 
+#copied from https://github.com/pytorch/vision/blob/master/torchvision/models/alexnet.py
 
 import torch.nn as nn
 import torch.utils.model_zoo as model_zoo
@@ -17,8 +18,8 @@ class AlexNet(nn.Module):
     def __init__(self, num_classes=1000):
         super(AlexNet, self).__init__()
         self.features = nn.Sequential(
-            nn.Conv2d(3, 64, kernel_size=11, stride=4, padding=2), #input 224 (should have been 227)*224*3 (223+2*2-11)/4+1=55 
-                                                                   #floor operation 96*55*55
+            nn.Conv2d(3, 64, kernel_size=11, stride=4, padding=2), #input 227*227*3 (Krizhevsky et al. 2012 paper typo 224)
+                                                                   #(223+2*2-11)/4+1=55 floor operation in pytorch 96*55*55
             nn.ReLU(inplace=True),
             nn.MaxPool2d(kernel_size=3, stride=2), #(55-3)/2+1=27 96*27*27
             nn.Conv2d(64, 192, kernel_size=5, padding=2), #(27+2*2-5)/1+1 256*27*27
