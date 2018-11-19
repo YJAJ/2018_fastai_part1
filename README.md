@@ -15,3 +15,5 @@ AlexNet is one of the first architectures that has deep layers (eight layers: 5 
 ZFNet (Zeiler Furgus Net) won 2013 ImageNet challenge by visualising each layer of AlexNet and using these to modify and improve hyperparameters of AlexNet. 2013 paper could be read in conjunction with Zeiler et al., 2011 (DeconvNet).
 
 1. Papers to read: Zeiler and Furgus, 2013 (https://arxiv.org/abs/1311.2901) and Zeiler et al., 2011 (http://www.matthewzeiler.com/wp-content/uploads/2017/07/iccv2011.pdf)
+
+2. Dive into Pytorch through Udacity Intro to Deep Learning with PyTorch: https://www.udacity.com/course/deep-learning-pytorch--ud188 (practice materials available here https://github.com/udacity/deep-learning-v2-pytorch)
