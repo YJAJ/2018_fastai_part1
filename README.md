@@ -18,4 +18,6 @@ ZFNet (Zeiler Furgus Net) won 2013 ImageNet challenge by visualising each layer 
 
 2. Dive into Pytorch through Udacity Intro to Deep Learning with PyTorch: https://www.udacity.com/course/deep-learning-pytorch--ud188 (practice materials available here https://github.com/udacity/deep-learning-v2-pytorch)
 
-3. Other resources: Visualisation of Resnet-based models through Gradient-weighted Class Activation Mapping (Grad-CAM) https://arxiv.org/abs/1610.02391
+3. My notes on the paper: http://yjpark.me/blog/jekyll/update/2018/11/18/notes-on-zfnet.html
+
+4. Other resources: Visualisation of Resnet-based models through Gradient-weighted Class Activation Mapping (Grad-CAM) https://arxiv.org/abs/1610.02391
