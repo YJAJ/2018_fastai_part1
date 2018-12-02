@@ -27,3 +27,5 @@ ZFNet (Zeiler Furgus Net) won 2013 ImageNet challenge by visualising each layer 
 Zeiler et al., 2011 (DeconvNet) and Selvaraju et al., 2016 (Grad-CAM) provides visualisation techniques for layers in your model. This week, we decided to attempt to visualise our model on any choice of data sets.
 
 1. Papers to read: Zeiler et al., 2011 (http://www.matthewzeiler.com/wp-content/uploads/2017/07/iccv2011.pdf) or Visualisation of Resnet-based models through Gradient-weighted Class Activation Mapping (Grad-CAM) https://arxiv.org/abs/1610.02391
+
+2. My notes on the paper: http://yjpark.me/blog/jekyll/update/2018/12/02/notes-on-grad-cam.html
