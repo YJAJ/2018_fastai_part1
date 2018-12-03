@@ -29,3 +29,7 @@ Zeiler et al., 2011 (DeconvNet) and Selvaraju et al., 2016 (Grad-CAM) provides v
 1. Papers to read: Zeiler et al., 2011 (http://www.matthewzeiler.com/wp-content/uploads/2017/07/iccv2011.pdf) or Visualisation of Resnet-based models through Gradient-weighted Class Activation Mapping (Grad-CAM) https://arxiv.org/abs/1610.02391
 
 2. My notes on the paper: http://yjpark.me/blog/jekyll/update/2018/12/02/notes-on-grad-cam.html
+
+## Monday 10th December 2018
+We decided to read the VGG paper by Oxford Visual Geometry Group since we came across VGG16 and VGG19 frequently while studying visualisations. VGG is also one of the winners of ImageNet challenge 2014. 
+1. Paper to read: Simonyan and Zisserman, 2014 (https://arxiv.org/abs/1409.1556)
