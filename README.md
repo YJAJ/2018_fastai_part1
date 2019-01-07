@@ -35,3 +35,10 @@ We decided to read the VGG paper by Oxford Visual Geometry Group since we came a
 1. Paper to read: Simonyan and Zisserman, 2014 (https://arxiv.org/abs/1409.1556)
 
 2. My notes on the paper: http://yjpark.me/blog/jekyll/update/2018/12/09/notes-on-vgg.html
+
+## Monday 14th January 2019
+The first paper to read in a new year is the ResNet paper. Though the paper was from 2015, the ResNet model has been consistently used (modified or not) in many recent models such as Residual Attention Network (Wang et al., 2017) and SENet (Hu et al., 2017).
+
+1. Paper to read: He et al., 2015 - Deep Residual Learning for Image Recognition (ResNet - identity mapping) https://arxiv.org/abs/1512.03385
+
+2. Related paper: Xie et al., 2016 - Aggregated Residual Transformations for Deep Neural Networks (ResNeXt - cardinality) https://arxiv.org/abs/1611.05431
