@@ -42,3 +42,7 @@ The first paper to read in a new year is the ResNet paper. Though the paper was 
 1. Paper to read: He et al., 2015 - Deep Residual Learning for Image Recognition (ResNet - identity mapping) https://arxiv.org/abs/1512.03385
 
 2. Related paper: Xie et al., 2016 - Aggregated Residual Transformations for Deep Neural Networks (ResNeXt - cardinality) https://arxiv.org/abs/1611.05431
+
+
+## Monday 18th February 2019
+Paper to read:Goodfellow et al., 2014 - GANs https://arxiv.org/abs/1406.2661
